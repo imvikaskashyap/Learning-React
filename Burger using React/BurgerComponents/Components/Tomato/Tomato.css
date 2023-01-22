@@ -1,0 +1,12 @@
+.tomato {
+  background-color: red;
+  height: 20px;
+  width: 100%;
+  border-radius: 12px;
+  margin: auto;
+}
+
+.tomatoContainer {
+  display: flex;
+  padding: 0 2%;
+}
